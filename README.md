@@ -34,7 +34,7 @@ Focus Champion helps users stay productive with smart focus sessions, notificati
 
 # Google Play
 
-https://play.google.com/store/apps/details?id=com.aliapps1.focuschampion
+[Download Focus Champion on Google Play](https://play.google.com/store/apps/details?id=com.aliapps1.focuschampion)
 
 ---
 
