@@ -11,8 +11,8 @@ Official productivity and focus timer app by Aliapps1.
 https://play.google.com/store/apps/details?id=com.aliapps1.focuschampion
 
 ## Documents
-- focus-champion-english.pdf
-- focus-champion-arabic.pdf
-- focus-champion-persian.pdf
+- [English PDF](./focus-champion-english.pdf)
+- [Arabic PDF](./focus-champion-arabic.pdf)
+- [Persian PDF](./focus-champion-persian.pdf)
 
 Focus Champion helps users stay productive with smart focus sessions, notifications, statistics and premium features.
