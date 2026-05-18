@@ -54,7 +54,7 @@ https://play.google.com/store/apps/details?id=com.aliapps1.focuschampion
 # Developer
 
 <p align="center">
-  <img src="./aliapps1-logo.png" width="160">
+  <img src="./aliapps1-logo.png" width="120">
 </p>
 
 <p align="center">
